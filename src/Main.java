@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Task 9
-        System.out.println("Задание9");
+        System.out.println("Задание 9");
         int contribution = 29000;
         int total = 0;
         for (int i=1;i<=12;i++){
